@@ -17,8 +17,8 @@ end the program
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
-#Developed by: Sri muthazhagan P
-#RegisterNumber: 2305002024
+#Developed by: Raashith Ruhulla R
+#RegisterNumber: 2305002018
 import numpy as np
 A=np.array([[4,2],[2,4]])
 values,vectors=np.linalg.eig(A)
@@ -26,7 +26,7 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
 ## Output:
-![image](https://github.com/adhi2k/EIGENVALUES-AND-EIGENVECTORS/assets/145216997/72458fde-e52c-40ca-9c1b-cb096d871899)
+![image](https://github.com/adhi2k/EIGENVALUES-AND-EIGENVECTORS/assets/145216997/16b9f918-590c-4c0d-9f8c-1ef312cd3247)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
